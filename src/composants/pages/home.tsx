@@ -1,7 +1,12 @@
 import React from 'react'
+import SectionLatyr from '../elements/sectrion-latyr'
+import SectionMamoudou from '../elements/sectionMomo'
 
 export default function HomePage() {
   return (
-    <div className='bg-red-800 h-screen text-2xl'>Home</div>
+    <div className=' h-screen'>
+      <SectionLatyr />
+      <SectionMamoudou />
+    </div>
   )
 }
