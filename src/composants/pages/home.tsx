@@ -1,10 +1,13 @@
 import React from 'react'
 import SectionLatyr from '../elements/sectrion-latyr'
+import SectionZiza from '../elements/section-ziza'
+
 
 export default function HomePage() {
   return (
-    <div className='bg-red-800 h-screen'>
+    <div className=' h-screen'>
       <SectionLatyr />
+      <SectionZiza/> 
     </div>
   )
 }
