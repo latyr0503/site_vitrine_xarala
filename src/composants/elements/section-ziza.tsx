@@ -1,14 +1,14 @@
-import React from 'react'
+import React from "react";
 
 export default function SectionZiza() {
   return (
-    <div className='bg-indigo-700 h-screen '>
-    <h1 className="text-center text-white py-4 text-2xl font-extrabold">A propose de moi </h1>
-      <div className="grid grid-cols-2 gap-3 px-6">
-        <div className=' text-white text-2xl font-bold  '>
-          <h3 className="text-3xl md:text-3xl font-bold text-white">
-            Salut,
-          </h3>
+    <div id="aziz" className="bg-indigo-700 h-screen py-20 space-y-20 ">
+      <h1 className="text-center text-white py-4 text-2xl font-extrabold">
+        A propose de moi{" "}
+      </h1>
+      <div className="max-w-6xl items-center mx-auto grid grid-cols-2 gap-3 px-6">
+        <div className=" text-white text-2xl font-bold  ">
+          <h3 className="text-3xl md:text-3xl font-bold text-white">Salut,</h3>
 
           <h2 className="text-3xl  font-bold mt-4 text-white">
             Je suis
@@ -40,10 +40,11 @@ export default function SectionZiza() {
         <div>
           <img
             src="/assets/ziza.jpeg"
-            className="w-full h-[40%] object-cover rounded-2xl"
-            alt=""/>
+            className="w-full h-150 object-cover rounded-2xl"
+            alt=""
+          />
         </div>
       </div>
     </div>
-  )
+  );
 }
