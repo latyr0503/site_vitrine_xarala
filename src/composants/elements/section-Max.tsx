@@ -14,9 +14,9 @@ export default function SectionMax() {
           </h1>
           <div className="p-2 text-white font-bold">
             Je suis
-            <span className="bg-amber-50 mx-4 px-2 font-extrabold text-2xl text-pink-500 rounded">
-              Soxna Maguette diop
-            </span>
+            <span className="bg-amber-50 m-4 px-2 font-extrabold text-2xl text-pink-500 rounded">
+              Soxna Maguette diop  👋  
+            </span>  
           </div>
           <p className="text-sm text-white ">
             Developpeur web & mobile basé au Sénégal,spécialisé dans la création
