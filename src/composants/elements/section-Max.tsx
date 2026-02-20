@@ -41,7 +41,7 @@ export default function SectionMax() {
         <div>
           <img
             src="/assets/max.jpeg"
-            className="w-full h-150 object-cover rounded-2xl"
+            className="w-full h-96 object-cover rounded-2xl"
             alt=""
           />
         </div>

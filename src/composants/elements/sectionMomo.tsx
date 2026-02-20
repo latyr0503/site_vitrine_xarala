@@ -35,7 +35,7 @@ export default function SectionMamoudou() {
           <div>
             <img
               src="/public/Profil.jpg"
-              className="w-full h-150 object-top object-cover rounded-2xl shadow-md shadow-yellow-300"
+              className="w-full h-96 object-top object-cover rounded-2xl shadow-md shadow-yellow-300"
               alt=""
             />
           </div>

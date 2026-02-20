@@ -17,7 +17,7 @@ export default function SectionLatyr() {
         <div>
           <img
             src="/assets/latyr.jpeg"
-            className="w-full h-150 object-cover rounded-2xl"
+            className="w-full h-96 object-cover rounded-2xl"
             alt=""
           />
         </div>
