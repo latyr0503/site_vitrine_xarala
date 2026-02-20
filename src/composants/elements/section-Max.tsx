@@ -13,8 +13,8 @@ export default function SectionMax() {
             <br />
           </h1>
           <div className="p-2 text-white font-bold">
-            Je suis ;
-            <span className="bg-amber-50 font-extrabold text-2xl text-pink-500 m-4 rounded">
+            Je suis
+            <span className="bg-amber-50 mx-4 px-2 font-extrabold text-2xl text-pink-500 rounded">
               Soxna Maguette diop
             </span>
           </div>
