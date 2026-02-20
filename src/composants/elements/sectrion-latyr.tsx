@@ -9,15 +9,13 @@ export default function SectionLatyr() {
           <img
             src="/assets/profil.png"
             className="w-full h-[50%] object-contain rounded-2xl"
-            alt=""
-          />
+            alt=""/>
         </div>
         <div>
           <img
             src="/assets/latyr.jpeg"
             className="w-full h-[50%] object-cover rounded-2xl"
-            alt=""
-          />
+            alt=""/>
         </div>
       </div>
     </div>
