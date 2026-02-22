@@ -1,4 +1,3 @@
-import React from "react";
 import SectionLatyr from "../elements/sectrion-latyr";
 import SectionZiza from "../elements/section-ziza";
 import SectionMamoudou from "../elements/sectionMomo";
@@ -14,3 +13,4 @@ export default function HomePage() {
     </div>
   );
 }
+ 
