@@ -1,12 +1,15 @@
 import SectionLatyr from "../elements/sectrion-latyr";
-import SectionFatou from "../elements/Section-Fatou";
+import SectionZiza from "../elements/section-ziza";
+import SectionMamoudou from "../elements/sectionMomo";
+import SectionMax from "../elements/section-Max";
 
 export default function HomePage() {
   return (
     <div className="">
       <SectionLatyr />
-      <SectionFatou/>
-
+      <SectionZiza/> 
+      <SectionMamoudou/>
+      <SectionMax/>
     </div>
   );
 }
